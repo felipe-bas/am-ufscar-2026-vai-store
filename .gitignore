@@ -1,0 +1,17 @@
+# Cache, bases brutas e submissoes (nao subir)
+cache/
+ufs-car-am-2026-projeto-final/
+data/
+dados/
+outputs/
+AM-master/
+*.zip
+
+# Temporarios Python, Jupyter e CatBoost
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+catboost_info/
+
+# PDF de referencia de terceiros
+relatorio/SDUWPS*.pdf
